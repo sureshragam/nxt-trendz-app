@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.cart-summary {
+  width: 350px;
+  margin-left: auto;
+  padding: 10px 20px;
+}
+.cart-summary > h1 {
+  font-size: 20px;
+  color: #616e7c;
+}
+.cart-summary > p {
+  font-size: 16px;
+  color: #616e7c;
+}
+.cart-summary > button {
+  padding: 10px 20px;
+  width: 100%;
+  border-radius: 8px;
+  outline: none;
+  border-style: none;
+  color: white;
+  background-color: #0b69ff;
+  cursor: pointer;
+}
+.cart-summary > h1 > span {
+  font-size: 24px;
+  color: #171f46;
+}
